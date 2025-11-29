@@ -1,4 +1,4 @@
-# Task Manager API v2.0
+# ToDoifY v2.0
 
 A RESTful task management application built with Python and FastAPI, featuring DevOps best practices including CI/CD, containerization, monitoring, and comprehensive testing.
 
