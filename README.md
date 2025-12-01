@@ -264,4 +264,4 @@ MIT License
 
 ## Author
 
-Software Development and DevOps Course - Individual Assignment 2
+Nicolás Leyva
